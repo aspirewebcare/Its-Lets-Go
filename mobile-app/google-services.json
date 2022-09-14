@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "824250413346",
+    "firebase_url": "https://aspire-lets-go-de84c-default-rtdb.firebaseio.com",
+    "project_id": "aspire-lets-go-de84c",
+    "storage_bucket": "aspire-lets-go-de84c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824250413346:android:5207747e87902af20ab57b",
+        "android_client_info": {
+          "package_name": "com.itsletsgo.taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824250413346-7u55v8n84ifo9ldrck8fs42i7q0rtbcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbNfIvi_42KaA76CoY1W9Ml_-8QilK3Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824250413346-7u55v8n84ifo9ldrck8fs42i7q0rtbcs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "824250413346-ob5j07obv9gc7oahob2h9cq34rud98eu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.itsletsgo.taxi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

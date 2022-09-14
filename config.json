@@ -1,0 +1,16 @@
+{
+    "app_name": "Its Lets Go",
+    "app_description": "Its Lets Go",
+    "app_identifier": "com.itsletsgo.taxi",
+    "ios_app_version": "1.0.0",
+    "android_app_version": 100,
+    "facebookAppId": "12345",
+    "firebaseProjectId": "aspire-lets-go-de84c",
+    "googleApiKeys": {
+        "ios": "AIzaSyCn9BHyXSsyV0IiLab2Vi4JlybGgacovuI",
+        "android": "AIzaSyCn9BHyXSsyV0IiLab2Vi4JlybGgacovuI",
+        "web": "AIzaSyCn9BHyXSsyV0IiLab2Vi4JlybGgacovuI",
+        "server": "AIzaSyCn9BHyXSsyV0IiLab2Vi4JlybGgacovuI"
+    },
+    "CodeCanyon_Purchase_Code": ""
+}
